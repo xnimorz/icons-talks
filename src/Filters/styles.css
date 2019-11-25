@@ -1,0 +1,30 @@
+.icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+}
+
+.filters {
+  background-image: url("./filters.base.svg");
+}
+
+.size-32 {
+  width: 32px;
+  height: 32px;
+  background-position: cover;
+}
+
+.red {
+  filter: invert(30%) sepia(93%) saturate(7246%) hue-rotate(356deg)
+    brightness(102%) contrast(120%);
+}
+
+.blue {
+  filter: invert(10%) sepia(99%) saturate(4712%) hue-rotate(243deg)
+    brightness(108%) contrast(145%);
+}
+
+.green {
+  filter: invert(54%) sepia(48%) saturate(1714%) hue-rotate(79deg)
+    brightness(113%) contrast(126%);
+}

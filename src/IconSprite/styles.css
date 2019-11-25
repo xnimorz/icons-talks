@@ -1,0 +1,31 @@
+.icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+}
+
+.filters {
+  background-image: url("./filters.base.svg");
+}
+
+.size-32 {
+  width: 32px;
+  height: 32px;
+  background-position: cover;
+}
+
+.grey {
+  background-position: -18px 0;
+}
+
+.red {
+  background-position: -36px 0;
+}
+
+.blue {
+  background-position: -54px 0;
+}
+
+.green {
+  background-position: -72px 0;
+}
