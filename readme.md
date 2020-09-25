@@ -23,3 +23,7 @@ yarn && yarn start server
 Рисовать clip-path https://bennettfeely.com/clippy/
 
 Пример clip-path анимации https://codepen.io/chriscoyier/pen/YPyYGx
+
+CSS-Mask https://web.dev/css-masking/
+
+React-helmet — подход с контекстом https://github.com/nfl/react-helmet
